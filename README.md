@@ -25,12 +25,12 @@
 
 3. Compile the code:
    ```bash
-   g++ guess.cpp -o guessGame
+   g++ guess.cpp -o main
    ```
 
 4. Run the program:
    ```bash
-   ./guessGame
+   ./main
    ```
 
 ### 🪟 On Windows (with MinGW):
@@ -47,12 +47,12 @@
 
 4. Compile the code:
    ```bash
-   g++ guess.cpp -o guessGame.exe
+   g++ guess.cpp -o main.exe
    ```
 
 5. Run the program:
    ```bash
-   guessGame.exe
+   main.exe
    ```
 
 ## 🤖 How It Works
