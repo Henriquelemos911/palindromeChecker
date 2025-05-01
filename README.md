@@ -25,7 +25,7 @@
 
 3. Compile the code:
    ```bash
-   g++ guess.cpp -o main
+   g++ main.cpp -o main
    ```
 
 4. Run the program:
@@ -47,7 +47,7 @@
 
 4. Compile the code:
    ```bash
-   g++ guess.cpp -o main.exe
+   g++ main.cpp -o main.exe
    ```
 
 5. Run the program:
